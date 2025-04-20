@@ -17,7 +17,6 @@ Fraudulent activities can lead to significant financial losses and security risk
 - **`app.py`**: Main Python file for the web application (e.g., Flask or FastAPI) to serve predictions.
 - **`Final_xgboost_model.joblib`**: Serialized XGBoost model file trained for fraud detection.
 - **`FraudDetection.ipynb`**: Jupyter notebook with the model training and evaluation code.
-- **`Fraud_Data_Cleaning.ipynb`**: Jupyter notebook for data preprocessing and cleaning.
 - **`Fraud_Analysis_Dataset.csv`**: Dataset used for training and analysis.
 - **`description.txt`**: Additional project description or notes (if applicable).
 
